@@ -1,6 +1,6 @@
 # The Bruh Button
 
-**[Download](https://github.com/preyneyv/bruh-exe/releases)**
+**[Download](https://github.com/preyneyv/bruh-exe/releases/latest)**
 
 Have you ever felt disappointed in a person or a thing and wanted an outlet to
 express it, only to be further disappointed that the thing does not exist?
