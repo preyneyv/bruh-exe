@@ -1,4 +1,6 @@
 # The Bruh Button
+## [Download](https://github.com/preyneyv/bruh-exe/releases)
+
 Have you ever felt disappointed in a person or a thing and wanted an outlet to
 express it, only to be further disappointed that the thing does not exist?
 
@@ -11,7 +13,7 @@ vocalizing your disappointment with society!
 - Instant disappointment with yourself or others around you, bruh!
 
 ## Convinced?
-I thought so. Head over to [Releases] to get the latest version of The Bruh
+I thought so. Head over to [Releases](https://github.com/preyneyv/bruh-exe/releases) to get the latest version of The Bruh
 Button completely for free!
 
 ## Compilation Instructions
