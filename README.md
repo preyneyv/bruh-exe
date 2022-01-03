@@ -20,7 +20,7 @@ Button completely for free!
 ## Compilation Instructions
 You don't trust me. It's fine. I get it. ( ._.)
 
-But no matter. We cannot let trust issues get in the way of the society's
+But no matter. We cannot let trust issues get in the way of society's
 greatest revelation.
 
 You must have MinGW installed. This program only works on Windows x64, x32 has
